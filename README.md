@@ -30,4 +30,9 @@ Review Site
 
 ## Retention:
 - The user signs up to hear more from the website
-- They return to tune into more reviews 
+- They return to tune into more reviews
+
+  ## WireFrame
+  -Mockup
+
+![POT - HD](https://github.com/user-attachments/assets/d44ca220-a064-45af-bd37-3ab1e7131d09)
